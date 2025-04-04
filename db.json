@@ -83,15 +83,6 @@
     },
     {
       "position": "Tester",
-      "company": "Amazon",
-      "location": "İstanbul, Türkiye",
-      "status": "Devam Ediyor",
-      "type": "Tam Zamanlı",
-      "date": 1733337378857,
-      "id": "cQjjOZG"
-    },
-    {
-      "position": "Tester",
       "company": "Zustand",
       "location": "İstanbul, Türkiye",
       "status": "Devam Ediyor",
@@ -100,13 +91,13 @@
       "id": "tyotEA8"
     },
     {
-      "id": "ec3a",
-      "position": "Mobile Developer",
-      "company": "OBSS",
+      "position": "Frontend Developer",
+      "company": "Micrsosoft",
       "location": "USA",
       "status": "Mülakat",
       "type": "Tam Zamanlı",
-      "date": 1743694717947
+      "date": 1743766648787,
+      "id": "6afMPws"
     }
   ]
 }
